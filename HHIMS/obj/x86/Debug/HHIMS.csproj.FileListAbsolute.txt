@@ -1,0 +1,12 @@
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.csprojResolveAssemblyReference.cache
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.Properties.Resources.resources
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.csproj.GenerateResource.Cache
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.Login.resources
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\bin\Debug\HHIMS.exe
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\bin\Debug\HHIMS.pdb
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.exe
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.pdb
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.SearchPatient.resources
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.SignUp.resources
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.Form1.resources
+c:\Users\sgpelk\Documents\Visual Studio 2010\Projects\HHIMS\HHIMS\obj\x86\Debug\HHIMS.MainMenu.resources
